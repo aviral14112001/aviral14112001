@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 46" width="180" height="46" role="img" aria-label="Jaipur, India">
+<defs>
+  <filter id="g" x="-10%" y="-40%" width="120%" height="180%">
+    <feGaussianBlur stdDeviation="2.2" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<style>
+  .t { font: 600 14px 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace, 'Hiragino Sans', 'Yu Gothic', 'Noto Sans JP'; }
+  .ring { animation: pulse 4s ease-in-out infinite; }
+  @keyframes pulse { 0%, 100% { stroke-opacity: 1; } 50% { stroke-opacity: .55; } }
+</style>
+<g transform="translate(4 4)">
+  <rect width="172" height="38" rx="19.0" fill="#0b0618"/>
+  <rect class="ring" x=".75" y=".75" width="170.5" height="36.5" rx="18.25" fill="none" stroke="#ff2e88" stroke-width="1.5" filter="url(#g)"/>
+  <g transform="translate(16 10.0)" filter="url(#g)"><path d="M9 1.2c-3.5 0-6.2 2.7-6.2 6.1 0 4.6 6.2 10.1 6.2 10.1s6.2-5.5 6.2-10.1C15.2 3.9 12.5 1.2 9 1.2z" fill="none" stroke="#ff2e88" stroke-width="1.6" stroke-linejoin="round"/><circle cx="9" cy="7.3" r="2.2" fill="#ff2e88"/></g>
+  
+  <text x="43" y="24.0" class="t" fill="#ff2e88" filter="url(#g)">Jaipur, India</text>
+</g>
+</svg>
