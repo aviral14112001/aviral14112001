@@ -10,16 +10,10 @@
 
 ### 👋 About me
 
-```csharp
-var aviral = new Developer
-{
-    Role       = "Associate Software Engineer @ NAV Fund Services",
-    Building   = ["investor onboarding", "e-subscription", "in-app e-signing"],
-    Stack      = ["React", "TypeScript", "C#", ".NET 8", "SQL Server", "MongoDB"],
-    Learning   = "日本語 (JLPT N4, still going)",
-    AskMeAbout = ["design tokens", "MCP dev tooling", "root-causing prod bugs"],
-};
-```
+- 💼 **Associate Software Engineer** at NAV Fund Services, Jaipur
+- 🏗️ Building investor onboarding, e-subscription and in-app e-signing for fund administration
+- 🌱 Learning 日本語 (JLPT N4, aiming for N3)
+- 💬 Ask me about design tokens, MCP dev tooling, or root-causing prod bugs
 
 ### 🛠️ Tech I use
 
