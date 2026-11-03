@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 164 46" width="164" height="46" role="img" aria-label="OSS Form.io">
+<defs>
+  <filter id="g" x="-10%" y="-40%" width="120%" height="180%">
+    <feGaussianBlur stdDeviation="2.2" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<style>
+  .t { font: 600 14px 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace, 'Hiragino Sans', 'Yu Gothic', 'Noto Sans JP'; }
+  .ring { animation: pulse 4s ease-in-out infinite; }
+  @keyframes pulse { 0%, 100% { stroke-opacity: 1; } 50% { stroke-opacity: .55; } }
+</style>
+<g transform="translate(4 4)">
+  <rect width="156" height="38" rx="19.0" fill="#0b0618"/>
+  <rect class="ring" x=".75" y=".75" width="154.5" height="36.5" rx="18.25" fill="none" stroke="#ffb347" stroke-width="1.5" filter="url(#g)"/>
+  <g transform="translate(16 10.0)" filter="url(#g)"><path d="M6 4.5 1.5 9 6 13.5M12 4.5 16.5 9 12 13.5M10.3 2.8 7.7 15.2" fill="none" stroke="#ffb347" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <text x="43" y="24.0" class="t" fill="#8b7fa8">OSS</text>
+  <text x="79.1" y="24.0" class="t" fill="#ffb347" filter="url(#g)">Form.io</text>
+</g>
+</svg>
