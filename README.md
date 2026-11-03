@@ -3,9 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aviralgupta1411/"><img src="https://img.shields.io/badge/LinkedIn-aviralgupta1411-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://img.shields.io/badge/Based_in-Jaipur,_India-ff2e88?style=for-the-badge" alt="Based in Jaipur, India"/>
-  <img src="https://img.shields.io/badge/日本語-JLPT_N4-00e5ff?style=for-the-badge" alt="JLPT N4"/>
+  <a href="https://www.linkedin.com/in/aviralgupta1411/"><img src="./badge-linkedin.svg" alt="LinkedIn"/></a>
+  <img src="./badge-location.svg" alt="Jaipur, India"/>
+  <img src="./badge-jlpt.svg" alt="日本語 JLPT N4"/>
+  <a href="https://github.com/formio/core/pull/314"><img src="./badge-oss.svg" alt="Open source: Form.io"/></a>
 </p>
 
 ### 👋 About me
